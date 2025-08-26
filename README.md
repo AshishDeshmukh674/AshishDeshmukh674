@@ -34,7 +34,7 @@ Email Me 👉 ✉️ **deshmukhashish674@gmail.com** For Collaboration/Project o
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
